@@ -524,3 +524,7 @@ div#maincontent {
 .contact-header {
   color: #161f29;
 }
+
+.sr-only {
+  background-color: #1a242f;
+}
